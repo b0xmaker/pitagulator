@@ -1,0 +1,3 @@
+ - daisy chain picos together (change pin definitions in openOCD configuration):
+   - https://github.com/raspberrypi/openocd/blob/rp2040/tcl/interface/raspberrypi-swd.cfg#L8
+ - implement buspirate pin headers
